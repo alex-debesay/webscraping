@@ -1,2 +1,1 @@
-# webscraping
-just practicing web scraping
+# stic
